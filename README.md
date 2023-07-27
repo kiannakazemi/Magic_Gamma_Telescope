@@ -1,5 +1,5 @@
 # Magic_Gamma_Telescope
 
-In a gamma telescope, high-energy particles hit the telescope. A detector records specific patterns of light hitting the telescope. By analyzing the properties of these patterns, we are going to predict the type of particle that caused the radiation, whether it was a gamma particle or a hadron.
+In this project, we explore the fascinating realm of gamma telescopes, where high-energy particles interact with the telescope, generating distinct light patterns. Leveraging machine learning, we aim to develop a robust model employing various algorithms such as K-nearest neighbors, Naive Bayes, Logistic Regression, Support Vector Machine, and Neural Network. Our objective is to determine which model achieves higher accuracy in predicting the particle type responsible for the radiation, distinguishing between gamma particles and hadrons. 
 
 Magic dataset: https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope
